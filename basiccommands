@@ -1,0 +1,34 @@
+1. mkdir - New directory
+2. ls - List the content in the directory
+3. cd - change directory
+4. touch - create an empty file
+5. cat > - display the content
+         - create content
+         - merge two files and copy to another file
+6. ll - Long list
+7. pwd - present working directory
+8. cp - copy files
+9. mv - move files
+10 . cp-r - copy directories
+11. mv-r - move directories
+12. head - display top 10 lines of file
+13. vi - create new file with content
+14. tail - to display bottom 10 lines in a file
+15. clear - clear screen
+16 . History - display history
+17. hostname - display hostname
+18. hostname -i - display host IP
+19. rm - removes file in directories
+20. rm-r / rmdir - removes directories
+21. unname-r - Kernal version
+22. cat /etc/os-release - Os information
+23. hostnamectl set-hostname - to set hostnmae to linux server
+24. su root - to see hostname
+25. exec bash - to see hostname
+26. yum install - to install packages
+27. tree - to see structure of directory
+28. cd .. - get back to previous directory
+29. ctrl+l - clears screen but keeps data
+30. ping - checks the network connectivity of the server
+31. ip-a - ip address of the server
+
